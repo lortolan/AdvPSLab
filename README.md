@@ -1,4 +1,5 @@
 # Projet complet du module powershell BMLog permettant de créer et modifier des fichiers logs personnalisé
+#A documentation de chaque fonction est aussi disponible au format markdown dans le dossier du projet.
 # Version 1.0.0
 
 # ConvertFrom-Log
